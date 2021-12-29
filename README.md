@@ -37,3 +37,10 @@
 中肯、邏輯性強，而不是歪攪胡纏、攻擊謾罵，則不管文章的觀點如何，都可以收錄。
 例如，基於聯邦制主張、各地區獨立建國主張的觀點和憲法草案都可以收納，但是基於
 專制主義的憲法草案就不予收納。
+
+**有關本倉庫的鏈接**
+
+* 參與者正式網址 (暗網網址): <http://git.idk.i2p/rebuild-roc/legal-sys>
+* 上述網址的洋蔥暗網網址: <https://47ggr2fa3vnwfyhvgskzdmr3i32eijwymxohtxsls45dulmriwxszjad.onion/rebuild-roc/legal-sys>
+* 面向公衆的開放網址: <https://github.com/rebuild-roc/legal-sys>
+* 面向公衆的開放網址: <https://gitlab.com/rebuild-roc/legal-sys>
