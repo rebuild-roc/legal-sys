@@ -49,7 +49,8 @@
 
 **有關本倉庫的鏈接**
 
-* 參與者正式網址 (暗網網址): <http://git.idk.i2p/rebuild-roc/legal-sys>
-* 上述網址的洋蔥暗網網址: <https://47ggr2fa3vnwfyhvgskzdmr3i32eijwymxohtxsls45dulmriwxszjad.onion/rebuild-roc/legal-sys>
-* 面向公衆的開放網址: <https://github.com/rebuild-roc/legal-sys>
-* 面向公衆的開放網址: <https://gitlab.com/rebuild-roc/legal-sys>
+* 參與者正式網址: <https://github.com/rebuild-roc/legal-sys>
+* 備用的正式網址:
+    * [I2P](https://geti2p.net) 暗網網址: <http://git.idk.i2p/rebuild-roc/legal-sys>
+    * 上述網址的[洋蔥暗網](https://www.torproject.org)網址: <https://47ggr2fa3vnwfyhvgskzdmr3i32eijwymxohtxsls45dulmriwxszjad.onion/rebuild-roc/legal-sys>
+* 備用網址: <https://gitlab.com/rebuild-roc/legal-sys>
