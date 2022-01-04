@@ -14,6 +14,15 @@
   法律文本，包括目前仍然在實行的法律文本。各法律文本儘可能以其官方公布的版本
   為准，同時還可以附帶中文譯本。每一個國號（包括已經不存在的國號）對應着該目錄
   下的一個子目錄，在該子目錄下收集該國號頒布過的法律文本。
+    * [README.md](refs/README.md) 該子目錄下的 README 文件。
+    * [ROC/](refs/ROC) 中收錄中華民國在各個歷史時期頒布或施行的法律文本。
+    * [HongKong-UK/](refs/HongKong-UK) 中存放港英時期頒布和施行的法律文本。1997
+    年之後在香港施行的法律文本不再收錄。
+    * [USA/](refs/USA) 中收錄美國自獨立後頒布或施行的法律文本。
+    * [UK/](refs/UK) 中收錄英國自憲政以來的法律文本。
+    * [Japan/](refs/Japan) 收錄日本自 1945 年之後頒布和施行的法律文本。
+    * [ml-CN/](refs/ml-CN) 收錄大陸和海外民主人士獨立於本項目制定的憲法草案等。
+    * [UN](refs/UN) 收錄聯合國的相關憲章、宣言、條約等。
 * [R4C/](R4C) 是一個目錄，目錄名為 **request for comments** 的縮寫，內含為後中共
   時期的中國制訂的法律文本草案，
   以供中共倒臺後新中國建國時選擇。在該目錄下，每一個子目錄內是一套相對獨立和
@@ -40,7 +49,8 @@
 
 **有關本倉庫的鏈接**
 
-* 參與者正式網址 (暗網網址): <http://git.idk.i2p/rebuild-roc/legal-sys>
-* 上述網址的洋蔥暗網網址: <https://47ggr2fa3vnwfyhvgskzdmr3i32eijwymxohtxsls45dulmriwxszjad.onion/rebuild-roc/legal-sys>
-* 面向公衆的開放網址: <https://github.com/rebuild-roc/legal-sys>
-* 面向公衆的開放網址: <https://gitlab.com/rebuild-roc/legal-sys>
+* 參與者正式網址: <https://github.com/rebuild-roc/legal-sys>
+* 備用的正式網址:
+    * [I2P](https://geti2p.net) 暗網網址: <http://git.idk.i2p/rebuild-roc/legal-sys>
+    * 上述網址的[洋蔥暗網](https://www.torproject.org)網址: <https://47ggr2fa3vnwfyhvgskzdmr3i32eijwymxohtxsls45dulmriwxszjad.onion/rebuild-roc/legal-sys>
+* 備用網址: <https://gitlab.com/rebuild-roc/legal-sys>
